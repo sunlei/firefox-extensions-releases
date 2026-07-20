@@ -8,9 +8,9 @@
       "source_dir": "src/dist_firefox",
       "updates_file": "updates/obsidian-clipper.json",
       "version_source": "package-json",
-      "last_seen": "48228dce63195681e9dfc4fb8760c3c36db51079",
+      "last_seen": "7fb4cd00aa5bb6fd5ff6e2f433faf191cc0d5407",
       "last_upstream_version": "1.7.0",
-      "version_build": 0
+      "version_build": 1
     },
     "tabalanche": {
       "repository": "eight04/tabalanche-extension",
