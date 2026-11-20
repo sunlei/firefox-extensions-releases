@@ -33,6 +33,10 @@
         {
           "version": "2026.11.10.13556",
           "update_link": "https://github.com/sunlei/firefox-extensions-releases/releases/download/tabalanche-v2026.11.10.13556/tabalanche-2026.11.10.13556.xpi"
+        },
+        {
+          "version": "2026.11.20.4709",
+          "update_link": "https://github.com/sunlei/firefox-extensions-releases/releases/download/tabalanche-v2026.11.20.4709/tabalanche-2026.11.20.4709.xpi"
         }
       ]
     }
