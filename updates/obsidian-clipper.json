@@ -57,6 +57,10 @@
         {
           "version": "1.8.0",
           "update_link": "https://github.com/sunlei/firefox-extensions-releases/releases/download/obsidian-clipper-v1.8.0/obsidian-clipper-1.8.0.xpi"
+        },
+        {
+          "version": "1.8.3",
+          "update_link": "https://github.com/sunlei/firefox-extensions-releases/releases/download/obsidian-clipper-v1.8.3/obsidian-clipper-1.8.3.xpi"
         }
       ]
     }
