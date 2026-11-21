@@ -8,8 +8,8 @@
       "source_dir": "src/dist_firefox",
       "updates_file": "updates/obsidian-clipper.json",
       "version_source": "package-json",
-      "last_seen": "50f67c575e1979b2b1461d8214ba55059742f5c2",
-      "last_upstream_version": "1.8.4",
+      "last_seen": "e7d275b490754932a4dea65dda1f987bbfce5242",
+      "last_upstream_version": "1.8.5",
       "version_build": 0
     },
     "tabalanche": {
